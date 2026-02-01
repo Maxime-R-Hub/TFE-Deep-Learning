@@ -1,0 +1,1 @@
+Ce projet est un réseau de neurones en Deep Learning écrit en python grâce aux librairies NumPy et CSV. Le réseau est capable de s'entrainer et de prédire la nature d'un chiffre manuscrit du dataset MNIST de Yann LeCun
