@@ -1,1 +1,2 @@
 Ce projet est un réseau de neurones en Deep Learning écrit en python grâce aux librairies NumPy et CSV. Le réseau est capable de s'entrainer et de prédire la nature d'un chiffre manuscrit du dataset MNIST de Yann LeCun
+Afin de pouvoir lancer le programme, il est nécessaire de télécharger à l'avance les fichiers mnist_train et mnist_test du dataset MNIST sous format csv. Ces deux fichiers sont disponibles sur ce site : https://www.kaggle.com/datasets/hojjatk/mnist-dataset
